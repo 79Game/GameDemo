@@ -72,6 +72,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Chatcher\PhysicComponent.cs" />
+    <Compile Include="Assets\Scripts\Event\MyEventSystem.cs" />
+    <Compile Include="Assets\Scripts\Log.cs" />
+    <Compile Include="Assets\Scripts\LogMessage.cs" />
+    <Compile Include="Assets\Scripts\Skill\Affix.cs" />
+    <Compile Include="Assets\Scripts\Skill\DamageShape.cs" />
+    <Compile Include="Assets\Scripts\Skill\SkillDamageCaculate.cs" />
+    <Compile Include="Assets\Scripts\Skill\SkillDataConfig.cs" />
+    <Compile Include="Assets\Scripts\Skill\SkillFullInfo.cs" />
+    <Compile Include="Assets\Scripts\Skill\SkillLayoutConfig.cs" />
+    <Compile Include="Assets\Scripts\Skill\SkillLayoutRunner.cs" />
+    <Compile Include="Assets\Scripts\Skill\SkillLogic.cs" />
+    <Compile Include="Assets\Scripts\Skill\SkillMachine.cs" />
+    <Compile Include="Assets\Scripts\Skill\SkillStateMachine.cs" />
     <Compile Include="Assets\Source\Generate\DelegateFactory.cs" />
     <Compile Include="Assets\Source\Generate\LuaBinder.cs" />
     <Compile Include="Assets\Source\Generate\LuaInterface_DebuggerWrap.cs" />

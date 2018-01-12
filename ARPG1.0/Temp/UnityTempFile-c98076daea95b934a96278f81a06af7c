@@ -88,6 +88,9 @@
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
 -define:UNITY_PRO_LICENSE
+Assets/Scripts/Skill/DamageShape.cs
+Assets/Scripts/Skill/SkillDataConfig.cs
+Assets/Scripts/Skill/SkillLayoutConfig.cs
 Assets/Source/Generate/DelegateFactory.cs
 Assets/Source/Generate/LuaBinder.cs
 Assets/Source/Generate/LuaInterface_DebuggerWrap.cs
